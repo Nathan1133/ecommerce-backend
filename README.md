@@ -14,11 +14,6 @@ Clone repo, npm i, mysql -u root -p', then 'source db/schema.sql' to create the 
 
 <br />
 
-## Usage
-
-Used to manage employee database. <br />
- <br />
-
 
 ## License
   This App is licensed under MIT license. <br />
